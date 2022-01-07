@@ -9,13 +9,20 @@
 /* Begin PBXBuildFile section */
 		0397EC602788A4FB0042FBB3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0397EC5F2788A4FB0042FBB3 /* AppDelegate.swift */; };
 		0397EC622788A4FB0042FBB3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0397EC612788A4FB0042FBB3 /* ViewController.swift */; };
-		0397EC642788A4FB0042FBB3 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 0397EC632788A4FB0042FBB3 /* Experience.rcproject */; };
 		0397EC672788A4FB0042FBB3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0397EC652788A4FB0042FBB3 /* Main.storyboard */; };
 		0397EC692788A4FE0042FBB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0397EC682788A4FE0042FBB3 /* Assets.xcassets */; };
 		0397EC6C2788A4FE0042FBB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0397EC6A2788A4FE0042FBB3 /* LaunchScreen.storyboard */; };
 		0397EC762788A4FF0042FBB3 /* PairsARTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0397EC752788A4FF0042FBB3 /* PairsARTests.swift */; };
 		0397EC802788A4FF0042FBB3 /* PairsARUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0397EC7F2788A4FF0042FBB3 /* PairsARUITests.swift */; };
 		0397EC822788A4FF0042FBB3 /* PairsARUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0397EC812788A4FF0042FBB3 /* PairsARUITestsLaunchTests.swift */; };
+		0397EC9A2788EB790042FBB3 /* 07.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 0397EC922788EB760042FBB3 /* 07.usdz */; };
+		0397EC9B2788EB790042FBB3 /* 06.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 0397EC932788EB760042FBB3 /* 06.usdz */; };
+		0397EC9D2788EB790042FBB3 /* 01.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 0397EC952788EB780042FBB3 /* 01.usdz */; };
+		0397EC9F2788EB790042FBB3 /* 05.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 0397EC972788EB790042FBB3 /* 05.usdz */; };
+		03D1F3FC2788F6AA00071E29 /* 08.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 03D1F3FA2788F6AA00071E29 /* 08.usdz */; };
+		03D1F3FD2788F6AA00071E29 /* 02.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 03D1F3FB2788F6AA00071E29 /* 02.usdz */; };
+		03D1F4012788F7B600071E29 /* 03.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 03D1F3FF2788F7B600071E29 /* 03.usdz */; };
+		03D1F4032788F86900071E29 /* 04.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 03D1F4022788F86900071E29 /* 04.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +46,6 @@
 		0397EC5C2788A4FB0042FBB3 /* PairsAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PairsAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0397EC5F2788A4FB0042FBB3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0397EC612788A4FB0042FBB3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		0397EC632788A4FB0042FBB3 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		0397EC662788A4FB0042FBB3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0397EC682788A4FE0042FBB3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0397EC6B2788A4FE0042FBB3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -48,6 +54,14 @@
 		0397EC7B2788A4FF0042FBB3 /* PairsARUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PairsARUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0397EC7F2788A4FF0042FBB3 /* PairsARUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairsARUITests.swift; sourceTree = "<group>"; };
 		0397EC812788A4FF0042FBB3 /* PairsARUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairsARUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0397EC922788EB760042FBB3 /* 07.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 07.usdz; sourceTree = "<group>"; };
+		0397EC932788EB760042FBB3 /* 06.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 06.usdz; sourceTree = "<group>"; };
+		0397EC952788EB780042FBB3 /* 01.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 01.usdz; sourceTree = "<group>"; };
+		0397EC972788EB790042FBB3 /* 05.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 05.usdz; sourceTree = "<group>"; };
+		03D1F3FA2788F6AA00071E29 /* 08.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 08.usdz; sourceTree = "<group>"; };
+		03D1F3FB2788F6AA00071E29 /* 02.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 02.usdz; sourceTree = "<group>"; };
+		03D1F3FF2788F7B600071E29 /* 03.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 03.usdz; sourceTree = "<group>"; };
+		03D1F4022788F86900071E29 /* 04.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 04.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,13 +114,21 @@
 			children = (
 				0397EC5F2788A4FB0042FBB3 /* AppDelegate.swift */,
 				0397EC612788A4FB0042FBB3 /* ViewController.swift */,
-				0397EC632788A4FB0042FBB3 /* Experience.rcproject */,
 				0397EC652788A4FB0042FBB3 /* Main.storyboard */,
+				0397EC952788EB780042FBB3 /* 01.usdz */,
+				03D1F3FB2788F6AA00071E29 /* 02.usdz */,
+				03D1F3FF2788F7B600071E29 /* 03.usdz */,
+				03D1F4022788F86900071E29 /* 04.usdz */,
+				0397EC972788EB790042FBB3 /* 05.usdz */,
+				0397EC932788EB760042FBB3 /* 06.usdz */,
+				0397EC922788EB760042FBB3 /* 07.usdz */,
+				03D1F3FA2788F6AA00071E29 /* 08.usdz */,
 				0397EC682788A4FE0042FBB3 /* Assets.xcassets */,
 				0397EC6A2788A4FE0042FBB3 /* LaunchScreen.storyboard */,
 			);
 			path = PairsAR;
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		0397EC742788A4FF0042FBB3 /* PairsARTests */ = {
 			isa = PBXGroup;
@@ -229,9 +251,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03D1F3FD2788F6AA00071E29 /* 02.usdz in Resources */,
 				0397EC6C2788A4FE0042FBB3 /* LaunchScreen.storyboard in Resources */,
+				0397EC9D2788EB790042FBB3 /* 01.usdz in Resources */,
+				0397EC9A2788EB790042FBB3 /* 07.usdz in Resources */,
+				03D1F4012788F7B600071E29 /* 03.usdz in Resources */,
 				0397EC692788A4FE0042FBB3 /* Assets.xcassets in Resources */,
+				0397EC9F2788EB790042FBB3 /* 05.usdz in Resources */,
 				0397EC672788A4FB0042FBB3 /* Main.storyboard in Resources */,
+				03D1F3FC2788F6AA00071E29 /* 08.usdz in Resources */,
+				0397EC9B2788EB790042FBB3 /* 06.usdz in Resources */,
+				03D1F4032788F86900071E29 /* 04.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,7 +288,6 @@
 			files = (
 				0397EC622788A4FB0042FBB3 /* ViewController.swift in Sources */,
 				0397EC602788A4FB0042FBB3 /* AppDelegate.swift in Sources */,
-				0397EC642788A4FB0042FBB3 /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,6 +466,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J62YZC9AHT;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -466,6 +496,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J62YZC9AHT;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
